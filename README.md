@@ -1,4 +1,4 @@
-Dynamic Search Filter
+## Dynamic Search Filter
 
 ## What this is
 A simple search tool that filters a list in real time as the user types.
